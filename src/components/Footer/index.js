@@ -4,7 +4,9 @@ import { FooterWrapper } from './FooterStyle'
 class Footer extends Component {
   render() {
     return (
-      <FooterWrapper />
+    <FooterWrapper>
+      THIS IS FOOTER
+    </FooterWrapper>
     );
   }
 }
