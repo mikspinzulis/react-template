@@ -1,9 +1,6 @@
 import styled from 'styled-components'
 
 export const HeaderWrapper = styled.div`
-<<<<<<< Updated upstream
-  color: white;
-=======
   img.palms {
     width: 100%;
   }
@@ -28,6 +25,4 @@ export const HeaderWrapper = styled.div`
    li a:hover {
     background-color: darkslategray;
    }
-    
->>>>>>> Stashed changes
 `
