@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import Slide from './FlexImages/Slide'
 import '../styles/App.css'
 import berns from '../images/berns.jpg'
 import Header from './Header/index.js'
 import Footer from './Footer/index.js'
+import Slide from './FlexImages/Slide'
 
 class Layout extends Component {
   render() {

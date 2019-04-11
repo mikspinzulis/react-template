@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 import palms from '../../images/palms.jpg';
 import { HeaderWrapper } from './HeaderStyle'
-
 class Header extends Component {
-  render() {
-    return (
-      <HeaderWrapper>
+    render() {
+        return (
+            <HeaderWrapper>
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Gallery</a></li>
@@ -18,5 +17,4 @@ class Header extends Component {
         );
     }
 }
-
 export default Header;
