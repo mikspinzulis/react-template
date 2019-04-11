@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { FooterWrapper } from './FooterStyle'
 
 class Footer extends Component {
-<<<<<<< Updated upstream
   render() {
     return (
     <FooterWrapper>
@@ -10,14 +9,6 @@ class Footer extends Component {
     </FooterWrapper>
     );
   }
-=======
-    render() {
-        return (
-            <FooterWrapper>
-            </FooterWrapper>
-        );
-    }
->>>>>>> Stashed changes
 }
 
 export default Footer;
