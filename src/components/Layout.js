@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import berns from '../images/berns.jpg'
 import Header from './Header/index.js'
 import Footer from './Footer/index.js'
+import Slide from './FlexImages/Slide'
 
 class Layout extends Component {
   render() {
@@ -16,6 +17,7 @@ class Layout extends Component {
           </p>
           <img src={berns} className="berns" />
         </div>
+          <Slide />
         <Footer />
       </div>
     );

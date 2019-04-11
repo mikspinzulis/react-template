@@ -6,7 +6,7 @@ class Header extends Component {
   render() {
     return (
       <HeaderWrapper>
-        <img src={palms} className="palms"/>
+        <img src={palms} className="palms" alt={"alts"}/>
       </HeaderWrapper>
     );
   }
