@@ -31,6 +31,7 @@ export const Theme = {
     smListingSpacing: '0.83rem',
     columnXSm: '2.2rem',
     columnSm: '2.7rem', // ~50px
-    columnFull: '5.5rem' // 100px
+    columnFull: '5.5rem', // 100px
+    mainFull: '72rem'
   },
 }
