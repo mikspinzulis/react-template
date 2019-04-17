@@ -5,6 +5,7 @@ export const HeaderWrapper = styled.div`
     width: 100%;
     position: relative;
     top: -55px;
+    min-height: 100vh;
   }
   ul {
     list-style-type: none;

@@ -4,6 +4,7 @@ import Header from './Header/index.js'
 import Footer from './Footer/index.js'
 import { Theme } from '../styles/GlobalStyle'
 import styled, { ThemeProvider } from 'styled-components'
+import palms from '../images/palms.jpg';
 
 const Main = styled.div`
   max-width: ${props => props.theme.spacing.mainFull};
@@ -30,7 +31,7 @@ class Layout extends Component {
               varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
               Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
             </p>
-            <img src={berns} className="berns" />
+              <img src={palms} className="berns" />
           </Main>
           <Footer />
         </div>
