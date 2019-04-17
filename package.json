@@ -7,6 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
     "react-sticky": "^6.0.3",
+    "react-sticky-el": "^1.0.20",
     "styled-breakpoints": "^6.6.2",
     "styled-components": "^4.2.0"
   },
