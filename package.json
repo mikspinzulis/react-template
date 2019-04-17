@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-pose": "^4.0.8",
     "react-scripts": "2.1.8",
+    "react-simple-dropdown": "^3.2.3",
     "react-sticky": "^6.0.3",
     "react-sticky-el": "^1.0.20",
     "styled-breakpoints": "^6.6.2",
