@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import main from '../../images/main.jpg';
 import { HeaderWrapper } from './HeaderStyle'
+import stars from '../../images/main.jpg'
 
 import Sticky from 'react-sticky-el';
 import styled from "styled-components";
@@ -16,7 +17,8 @@ const Navigation = styled(Sticky)`
     justify-content: center;
   }
   &.sticky {
-    background-color: black;
+     background-image: url(${stars});
+     background-position-y: 535px;
   }
   .site-slogan {
     color: white;
