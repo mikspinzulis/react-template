@@ -31,7 +31,7 @@ const StyledInnerCircle = styled.circle`
 
 const circle = (
     <StyledCircle height="200" width="200" className={"pulse"}>
-        <StyledInnerCircle cx="150" cy="150" r="140" stroke="black" stroke-width="3" />
+        <StyledInnerCircle cx="150" cy="150" r="120" stroke="black" stroke-width="3" />
     </StyledCircle>
 );
 
