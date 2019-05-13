@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/a967962a297907e4f57d0f7c49cce4b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4af9bfa0b39c1b017af8e1284dfe6579/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/78e0641161c154c6292573234a04d9ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/fa076b94c6d2e0490559288b550e00d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/476985b1569f213d36676dbc7804665b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f9669cc4bf42bed609b2dd2f9b0a25d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4c17e4709ccd6fcb26a128d3b2f78be5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/da8bad88e98e6c2daff51cfb50f0f97d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e1d11b5605023a599cd8de5b0ce46a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8bf7faae71d6971acd7b76cd176bdb6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/167be4426b0e77b19197d60593c5e741/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4288442c9c11493504074ec4a0ff2b5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1243467904532c32d7b395fb5cd93be0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4baab07e04088266ccd8a5bbde947faf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/437b5ee4cd0f5999fdac6ee0c35d8239/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/d91f4c41b5cc9005428d8d64b04029b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/c907a91c71e9518cbfecf0d8906afab6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/91d8352c068a2e0308caa3a09816bf2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/88a4051888d2713e4984ccee3c5b7e93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/38857daeed5882dad10992446b02d82b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1c8cb3130d3b6716771f85203cdb861d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f8d5d591a020f1c442d129dcfeb5ba1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/b4d63a80b30d54c96cd6a083e1739cda/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/adeb8438fc6d3a0e5280218a68648665/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e8528c31392ae890bdf53c2427f227fe/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:2:9-39
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:4:5-9:42
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/437b5ee4cd0f5999fdac6ee0c35d8239/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/437b5ee4cd0f5999fdac6ee0c35d8239/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:5:9-41
+	android:roundIcon
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:7:9-54
+	android:icon
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:4:18-44
+	android:theme
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml:9:9-40
+uses-sdk
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/a967962a297907e4f57d0f7c49cce4b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/a967962a297907e4f57d0f7c49cce4b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4af9bfa0b39c1b017af8e1284dfe6579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4af9bfa0b39c1b017af8e1284dfe6579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/78e0641161c154c6292573234a04d9ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/78e0641161c154c6292573234a04d9ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/fa076b94c6d2e0490559288b550e00d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/fa076b94c6d2e0490559288b550e00d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/476985b1569f213d36676dbc7804665b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/476985b1569f213d36676dbc7804665b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f9669cc4bf42bed609b2dd2f9b0a25d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f9669cc4bf42bed609b2dd2f9b0a25d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4c17e4709ccd6fcb26a128d3b2f78be5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4c17e4709ccd6fcb26a128d3b2f78be5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/da8bad88e98e6c2daff51cfb50f0f97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/da8bad88e98e6c2daff51cfb50f0f97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e1d11b5605023a599cd8de5b0ce46a7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e1d11b5605023a599cd8de5b0ce46a7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8bf7faae71d6971acd7b76cd176bdb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8bf7faae71d6971acd7b76cd176bdb6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/167be4426b0e77b19197d60593c5e741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/167be4426b0e77b19197d60593c5e741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4288442c9c11493504074ec4a0ff2b5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4288442c9c11493504074ec4a0ff2b5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1243467904532c32d7b395fb5cd93be0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1243467904532c32d7b395fb5cd93be0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4baab07e04088266ccd8a5bbde947faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/4baab07e04088266ccd8a5bbde947faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/513cba6e94665d679665e0e8c6fc1ae0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/437b5ee4cd0f5999fdac6ee0c35d8239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/437b5ee4cd0f5999fdac6ee0c35d8239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/d91f4c41b5cc9005428d8d64b04029b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/d91f4c41b5cc9005428d8d64b04029b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/c907a91c71e9518cbfecf0d8906afab6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/c907a91c71e9518cbfecf0d8906afab6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/91d8352c068a2e0308caa3a09816bf2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/91d8352c068a2e0308caa3a09816bf2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/88a4051888d2713e4984ccee3c5b7e93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/88a4051888d2713e4984ccee3c5b7e93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/38857daeed5882dad10992446b02d82b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/38857daeed5882dad10992446b02d82b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1c8cb3130d3b6716771f85203cdb861d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/1c8cb3130d3b6716771f85203cdb861d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f8d5d591a020f1c442d129dcfeb5ba1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/8f8d5d591a020f1c442d129dcfeb5ba1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/b4d63a80b30d54c96cd6a083e1739cda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/b4d63a80b30d54c96cd6a083e1739cda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/adeb8438fc6d3a0e5280218a68648665/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/adeb8438fc6d3a0e5280218a68648665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e8528c31392ae890bdf53c2427f227fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mikspinzulis/.gradle/caches/transforms-2/files-2.1/e8528c31392ae890bdf53c2427f227fe/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikspinzulis/sites/react-template/template/app/src/main/AndroidManifest.xml

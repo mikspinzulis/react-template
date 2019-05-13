@@ -2,9 +2,13 @@ import React, { Component } from 'react';
 import main from '../../images/main.jpg';
 import { HeaderWrapper } from './HeaderStyle'
 import stars from '../../images/main.jpg'
+import App from './pulse'
+import App2 from './pulse2'
+import App3 from './pulse3'
 
 import Sticky from 'react-sticky-el';
 import styled from "styled-components";
+
 
 const Navigation = styled(Sticky)`
   position: relative;
@@ -57,7 +61,13 @@ class Header extends Component {
           </ul>
             <div className={'search'}><input placeholder={'Search...'}/></div>
         </Navigation>
-        <img src={main} className="palms"/>
+        <div>
+        <img src={main} className="palms" />
+        <App />
+          <App2 />
+          <App3 />
+
+        </div>
       </HeaderWrapper>
     );
   }
