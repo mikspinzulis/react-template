@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Example from './Header/logomodify'
+import Example from './Animations/logomodify'
 import Header from './Header/index.js'
 import Footer from './Footer/index.js'
 import { Theme } from '../styles/GlobalStyle'

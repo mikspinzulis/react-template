@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import main from '../../images/main.jpg';
 import { HeaderWrapper } from './HeaderStyle'
 import stars from '../../images/main.jpg'
-import App from './pulse'
-import App2 from './pulse2'
-import App3 from './pulse3'
+import App from '../Animations/pulse'
+import App2 from '../Animations/pulse2'
+import App3 from '../Animations/pulse3'
 import Sticky from 'react-sticky-el';
 import styled from "styled-components";
 

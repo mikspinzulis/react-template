@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
-import posed from 'react-pose';
+import posed from 'react-pose/lib/index';
 import { tween } from 'popmotion';
 import { interpolate } from 'flubber';
-import './styles.css';
+import '../Header/styles.css';
 
 const paths = {
   plane:
