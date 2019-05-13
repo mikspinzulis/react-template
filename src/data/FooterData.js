@@ -1,44 +1,44 @@
 const Contacts = [
-    {
-        name: 'street',
-        text: 'Lapinlahdenkatu 1'
-    },
-    {
-        name: 'city',
-        text: '00180 Helsinki'
-    },
-    {
-        name: 'country',
-        text: 'Finland'
-    },
-    {
-        name: 'phone',
-        text: '+358 20 791 2940'
-    }
+  {
+    name: 'street',
+    text: 'Lapinlahdenkatu 1'
+  },
+  {
+    name: 'city',
+    text: '00180 Helsinki'
+  },
+   {
+    name: 'country',
+    text: 'Finland'
+  },
+  {
+    name: 'phone',
+    text: '+358 20 791 2940'
+  }
 ]
 
 const ServicesList = [
-    {
-        name: 'agile',
-        text: 'Data, Design & Agile Development',
-        link: '/services/data-design-and-development'
-    },
-    {
-        name: 'technology',
-        text: 'Our Technology Approach',
-        link: '/services/our-technology-approach'
-    },
-    {
-        name: 'development',
-        text: 'Continuous Development',
-        link: '/services/continuous-development'
-    }
+  {
+    name: 'agile',
+    text: 'Data, Design & Agile Development',
+    link: '/services/data-design-and-development'
+  },
+  {
+    name: 'technology',
+    text: 'Our Technology Approach',
+    link: '/services/our-technology-approach'
+  },
+  {
+    name: 'development',
+    text: 'Continuous Development',
+    link: '/services/continuous-development'
+  }
 ]
 
 const AboutList = [
-    {
-        name: 'culture',
-        text: 'Wunder Culture',
+  {
+    name: 'culture',
+    text: 'Wunder Culture',
         link: 'about-wunder/wunder-culture'
     },
     {

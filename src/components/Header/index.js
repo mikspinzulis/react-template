@@ -5,7 +5,6 @@ import stars from '../../images/main.jpg'
 import App from './pulse'
 import App2 from './pulse2'
 import App3 from './pulse3'
-
 import Sticky from 'react-sticky-el';
 import styled from "styled-components";
 
@@ -66,7 +65,6 @@ class Header extends Component {
         <App />
           <App2 />
           <App3 />
-
         </div>
       </HeaderWrapper>
     );

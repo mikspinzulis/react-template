@@ -1,0 +1,25 @@
+
+
+button {
+    border: none;
+    margin: 0;
+    width: 100%;
+    height: 81%;
+    overflow: visible;
+    background: transparent;
+    font-size: 0;
+    color: white;
+    padding: 15px 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    position: absolute;
+    left: 0px;
+    top: 58px;
+    transform: none;
+    outline: none;
+}
+.icons {
+    POSITION: ABSOLUTE;
+    left: 39%;
+    top: 26%;
+}
