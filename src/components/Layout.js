@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import berns from '../images/berns.jpg'
+import Example from './Header/logomodify'
 import Header from './Header/index.js'
 import Footer from './Footer/index.js'
 import { Theme } from '../styles/GlobalStyle'
@@ -32,6 +32,7 @@ class Layout extends Component {
               Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
             </p>
               <img src={palms} className="berns" />
+              <Example />
           </Main>
           <Footer />
         </div>
