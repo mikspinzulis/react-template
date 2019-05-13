@@ -16,8 +16,8 @@ const pulse = keyframes`
 }
 `;
 const StyledCircle = styled.svg`
-  height: 25rem;
-  width: 25rem;
+  height: 19rem;
+  width: 19rem;
   display: block;
   margin: auto;
   position: absolute;
@@ -30,17 +30,17 @@ const StyledInnerCircle = styled.circle`
 `;
 
 const circle = (
-    <StyledCircle height="200" width="200" className={"pulse"}>
-        <StyledInnerCircle cx="150" cy="150" r="120" stroke="black" stroke-width="3" />
-    </StyledCircle>
+  <StyledCircle height="200" width="200" className={"pulse"}>
+    <StyledInnerCircle cx="150" cy="150" r="120" stroke="black" stroke-width="3" />
+  </StyledCircle>
 );
 
 class App extends Component {
-    render() {
-        return (
-            <div>{circle}</div>
-        );
-    }
+  render() {
+    return (
+      <div>{circle}</div>
+    );
+  }
 }
 
 export default App;
