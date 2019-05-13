@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import posed from 'react-pose/lib/index';
 import { tween } from 'popmotion';
 import { interpolate } from 'flubber';
-import '../Header/styles.css';
+import './styles.css';
 
 const paths = {
   plane:

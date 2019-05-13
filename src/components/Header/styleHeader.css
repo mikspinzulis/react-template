@@ -109,7 +109,6 @@ body.okayNav-loaded {
 .okayNav__nav--invisible.transition-enabled {
     transition: -webkit-transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
     transition: transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
-    transition: transform 400ms cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
 }
 .okayNav__nav--invisible.nav-open {
     -webkit-transform: translateX(0);
@@ -120,7 +119,6 @@ body.okayNav-loaded {
     position: relative;
     transition: -webkit-transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
     transition: transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
-    transition: transform 400ms cubic-bezier(0.55, 0, 0.1, 1), -webkit-transform 400ms cubic-bezier(0.55, 0, 0.1, 1);
     cursor: pointer;
     width: 40px;
     height: 20px;

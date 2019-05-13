@@ -8,7 +8,6 @@ import App3 from '../Animations/pulse3'
 import Sticky from 'react-sticky-el';
 import styled from "styled-components";
 
-
 const Navigation = styled(Sticky)`
   position: relative;
   z-index: 100;
@@ -61,8 +60,8 @@ class Header extends Component {
             <div className={'search'}><input placeholder={'Search...'}/></div>
         </Navigation>
         <div>
-        <img src={main} className="palms" />
-        <App />
+          <img src={main} className="palms" />
+          <App />
           <App2 />
           <App3 />
         </div>
