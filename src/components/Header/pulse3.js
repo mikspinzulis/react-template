@@ -4,7 +4,7 @@ import styled, { keyframes } from 'styled-components'
 const pulse = keyframes`
 0% {
   fill:#4091d0;
-  stroke-width:10px
+  stroke-width:50px
 }
 50% {
   fill:#050035;
@@ -12,7 +12,7 @@ const pulse = keyframes`
 }
 100%{
   fill:#10aded;
-  stroke-width:10px
+  stroke-width:50px
 }
 `;
 const StyledCircle = styled.svg`
