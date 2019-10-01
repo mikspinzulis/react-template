@@ -32,6 +32,9 @@ const Navigation = styled(Sticky)`
     color: white;
     padding: 12px 30px;
     text-decoration: none;
+    @media screen and (max-width: 1020px) {
+      display: none;
+    }
   }
   input {
     background: transparent;
@@ -45,9 +48,22 @@ const Navigation = styled(Sticky)`
 `
 
 class Header extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {isToggleOn: true};
+
+        // This binding is necessary to make `this` work in the callback
+        this.handleClick = this.handleClick.bind(this);
+    }
+
+    handleClick() {
+        this.setState(state => ({
+            isToggleOn: !state.isToggleOn
+        }));
+    }
   render() {
     return (
-      <HeaderWrapper>
+      <HeaderWrapper className={this.state.isToggleOn ? 'Closed' : 'Opened'} >
         <Navigation>
             <div className={'site-slogan'}>Site Slogan</div>
           <ul>
@@ -58,12 +74,17 @@ class Header extends Component {
             <li><a href="#">Blog</a></li>
           </ul>
             <div className={'search'}><input placeholder={'Search...'}/></div>
+            <button onClick={this.handleClick}>
+                {this.state.isToggleOn ? 'ON' : 'OFF'}
+            </button>
         </Navigation>
         <div>
           <img src={main} className="palms" />
+          <div className={"svg"}>
           <App />
           <App2 />
           <App3 />
+          </div>
         </div>
       </HeaderWrapper>
     );
